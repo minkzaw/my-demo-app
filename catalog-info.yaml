@@ -1,7 +1,7 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: Min Khant Zaw
+  name: 'Min Khant Zaw'
   annotations:
     github.com/project-slug: minkzaw/my-demo-app
 spec:
