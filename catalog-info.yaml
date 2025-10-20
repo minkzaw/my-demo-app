@@ -4,6 +4,7 @@ metadata:
   name: test
   annotations:
     github.com/project-slug: minkzaw/my-demo-app
+    roadie-backstage-pull-requests/default-filter: is:open is:pr author:app%2Fmy-bot
 spec:
   type: service
   owner: user:default/guest
